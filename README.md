@@ -16,3 +16,8 @@
 
 5. Install the required dependencies using pip:  
     `pip install -r requirements.txt`
+
+## Run the server
+
+1. Command:
+    `python manage.py runserver`
